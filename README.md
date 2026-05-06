@@ -95,6 +95,3 @@ I believe that technology should be used not only to build systems, but also to 
 - Portuguese — Native
 - English — C1
 
-## Contact
-
-- LinkedIn: [Caio Camacho](https://www.linkedin.com/in/your-linkedin-profile)
