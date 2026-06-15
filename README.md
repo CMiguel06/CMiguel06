@@ -45,42 +45,6 @@ I am currently developing knowledge and practical skills across multiple areas o
 - Cybersecurity concepts
 - Automation and data-driven systems
 
-## Technologies
-
-### Programming and development
-
-- Python
-- Java
-- C
-- C#
-- JavaScript
-- TypeScript
-- HTML
-- CSS
-- SQL
-- OCaml
-
-### Areas of interest
-
-- Backend development
-- Data systems
-- Artificial Intelligence
-- Cybersecurity
-- Automation
-- API development
-- Web applications
-- Public sector digital transformation
-
-## Strengths
-
-- Strong organization skills
-- Analytical thinking
-- Problem-solving mindset
-- Continuous learning
-- Academic discipline
-- Interest in scientific research
-- Adaptability to different technologies
-- Motivation to grow in international and European technology contexts
 
 ## Career direction
 
